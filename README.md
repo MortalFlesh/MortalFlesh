@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 - 🛣️ My path goes as _no-code_ -> 💩 code -> OOP -> Clean Code ✨ -> _Real_ OOP (_testing and stuff_) -> Reactive Programming (_RxJS + React_) -> Functional Programming & DDD 🥳 -> ❓❓❓
 - 😵 I’m not afraid of Monads (_much_)
-- 🔭 I’m currently working on [TUC - TypedUseCase](https://github.com/TypedUseCase)
-- 🤩 I’m looking forward to  [Advent of Code](https://adventofcode.com/)
+- 🔭 I also work on [VysokéŠkoly.cz](https://github.com/vysokeskoly) and [TUC - TypedUseCase](https://github.com/TypedUseCase)
 - 💬 Ask me about anything ...
 - ⚡ Fun fact: I do Filipino Martial Arts 🔪 
 
