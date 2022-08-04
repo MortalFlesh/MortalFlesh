@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=MortalFlesh.MortalFlesh)
 [![Github](https://img.shields.io/github/followers/MortalFlesh?label=Follow&style=social)](https://github.com/MortalFlesh)
 
-## 👨‍💻 I work as Architecture Developer at [LMC](https://github.com/lmc-eu). Nowadays on [TypedUseCase](https://github.com/TypedUseCase).
+## 👨‍💻 I work as Architecture/DX developer at [LMC](https://github.com/lmc-eu).
 
 - 🛣️ My path goes as _no-code_ -> 💩 code -> OOP -> Clean Code ✨ -> _Real_ OOP (_testing and stuff_) -> Reactive Programming (_RxJS + React_) -> Functional Programming & DDD 🥳 -> ❓❓❓
 - 😵 I’m not afraid of Monads (_much_)
